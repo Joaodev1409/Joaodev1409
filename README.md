@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">Computer Science student</h3>
 
-- 🌱 I’m currently learning **React and Big O notation**
+- 🌱 I’m currently learning **Springboot, Big O notation, architecture of microservices and sorting algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joaodev1409](https://github.com/Joaodev1409)
 
